@@ -1,0 +1,344 @@
+Uri: http://f.goodq.top/FeiEditor/bitSite/images/big-black-plus.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\images\big-black-plus.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/images/big-white-plus.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\images\big-white-plus.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/images/close_hover1.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\images\close_hover1.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/images/zoom_in_black.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\images\zoom_in_black.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/images/zoom_in_white.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\images\zoom_in_white.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.eot
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\wp\bootstrap\fonts\fontawesome-v3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.eot?
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\wp\bootstrap\fonts\fontawesome-v3-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.ttf
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\wp\bootstrap\fonts\fontawesome-v3.ttf
+Content Type: application/font-sfnt
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.woff
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\wp\bootstrap\fonts\fontawesome-v3.woff
+Content Type: application/font-woff
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\wp\bootstrap\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\wp\bootstrap\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-webfont.ttf
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\wp\bootstrap\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-webfont.woff
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\wp\bootstrap\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\wp\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\wp\bootstrap\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\wp\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\wp\bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: http://f.goodq.top/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\bitSite\wp\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: http://f.goodq.top/FeiEditor/images/bitcms/black-60.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\images\bitcms\black-60.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/FeiEditor/images/icon/flag_icon_16x16.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\images\icon\flag_icon_16x16.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/FeiEditor/images/icon/flag_icon_24x24.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\images\icon\flag_icon_24x24.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/FeiEditor/images/icon/flag_icon_32x32.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\images\icon\flag_icon_32x32.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/FeiEditor/images/icon/social_icon_16x16.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\images\icon\social_icon_16x16.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/FeiEditor/images/icon/social_icon_24x24.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\images\icon\social_icon_24x24.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/FeiEditor/images/icon/social_icon_32x32.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\images\icon\social_icon_32x32.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/FeiEditor/images/icon/social_icon_64x64.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\FeiEditor\images\icon\social_icon_64x64.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/bit-plugin/assets/frame/header_bg/1/bg.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\bit-plugin\assets\frame\header_bg\1\bg.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/images/grid-10.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\images\grid-10.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/images/grid-100.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\images\grid-100.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/images/grid-20.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\images\grid-20.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/images/grid-30.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\images\grid-30.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/images/grid-40.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\images\grid-40.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/images/grid-50.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\images\grid-50.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/images/grid-60.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\images\grid-60.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/images/grid-70.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\images\grid-70.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/images/grid-80.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\images\grid-80.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/images/grid-90.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\images\grid-90.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/images/pic.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\images\pic.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/vc/alert.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\vc\alert.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/vc/exclamation.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/vc/info.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\vc\info.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/assets/vc/tick.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\assets\vc\tick.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/qfy_editor/projekktor/themes/maccaco/start.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\qfy_editor\projekktor\themes\maccaco\start.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-content/plugins/revslider/rs-plugin/font/revicons.eot?123
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\revslider\rs-plugin\font\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://f.goodq.top/qfy-content/plugins/revslider/rs-plugin/font/revicons.svg?123
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\revslider\rs-plugin\font\revicons.svg
+Content Type: image/svg+xml
+
+Uri: http://f.goodq.top/qfy-content/plugins/revslider/rs-plugin/font/revicons.ttf?123
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\revslider\rs-plugin\font\revicons.ttf
+Content Type: application/font-sfnt
+
+Uri: http://f.goodq.top/qfy-content/plugins/revslider/rs-plugin/font/revicons.woff?123
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\plugins\revslider\rs-plugin\font\revicons.woff
+Content Type: application/font-woff
+
+Uri: http://f.goodq.top/qfy-content/themes/qfy-01/images/old-ie.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\themes\qfy-01\images\old-ie.png
+Content Type: image/png
+
+Uri: http://f.goodq.top/qfy-includes/js/thickbox/macFFBgHack.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-includes\js\thickbox\macFFBgHack.png
+Content Type: image/png
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\index.htm
+Content Type: text/html
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/cache/scripts/2fa694d9b1106d94295f26ea544ba10b.js
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\cache\scripts\2fa694d9b1106d94295f26ea544ba10b.js
+Content Type: application/javascript
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/cache/scripts/35035ace20bb7a6a5f285301ec378c19.css
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\cache\scripts\35035ace20bb7a6a5f285301ec378c19.css
+Content Type: text/css
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/cache/scripts/78990cbb5d1a4d52caa1fec4acbdb852.css
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\cache\scripts\78990cbb5d1a4d52caa1fec4acbdb852.css
+Content Type: text/css
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/1595dde0c85a2c2f1f87b28dd74a386a-500x500.jpg
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\1595dde0c85a2c2f1f87b28dd74a386a-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/1595dde0c85a2c2f1f87b28dd74a386a.jpg?ai-no-cache=true
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\1595dde0c85a2c2f1f87b28dd74a386a.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/1a2ec315489515e623ed1364e15fb828-80x80.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\1a2ec315489515e623ed1364e15fb828-80x80.png
+Content Type: image/png
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/23ee4678aa58feb257d37d35f385d205-80x80.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\23ee4678aa58feb257d37d35f385d205-80x80.png
+Content Type: image/png
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/2a2990b1fd8c3402c29667f69729b1b3-80x80.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\2a2990b1fd8c3402c29667f69729b1b3-80x80.png
+Content Type: image/png
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/2c9ed61e0100811ecd4b0cd611f01277-500x500.jpg
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\2c9ed61e0100811ecd4b0cd611f01277-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/2c9ed61e0100811ecd4b0cd611f01277.jpg?ai-no-cache=true
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\2c9ed61e0100811ecd4b0cd611f01277.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/2f3a8d5e82f842891c5d7a3e68330b37-80x80.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\2f3a8d5e82f842891c5d7a3e68330b37-80x80.png
+Content Type: image/png
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/3d4c2a89e1ecb76da9d2cbe168b1e5a9-500x500.jpg
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\3d4c2a89e1ecb76da9d2cbe168b1e5a9-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/3d4c2a89e1ecb76da9d2cbe168b1e5a9.jpg?ai-no-cache=true
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\3d4c2a89e1ecb76da9d2cbe168b1e5a9.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/620a54928b07a80f64577c7ff5c38bf0-500x500.jpg
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\620a54928b07a80f64577c7ff5c38bf0-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/620a54928b07a80f64577c7ff5c38bf0.jpg?ai-no-cache=true
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\620a54928b07a80f64577c7ff5c38bf0.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/74e3675555328710a4722c87daa44adb.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\74e3675555328710a4722c87daa44adb.png
+Content Type: image/png
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/8c78bf41ba7c02bb1fe1c5202c46e77e-500x500.jpg
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\8c78bf41ba7c02bb1fe1c5202c46e77e-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/8c78bf41ba7c02bb1fe1c5202c46e77e.jpg?ai-no-cache=true
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\8c78bf41ba7c02bb1fe1c5202c46e77e.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/8cf8c885ca8b965829f229c67a763823-500x500.jpg
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\8cf8c885ca8b965829f229c67a763823-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/8cf8c885ca8b965829f229c67a763823.jpg
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\8cf8c885ca8b965829f229c67a763823-1.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/8cf8c885ca8b965829f229c67a763823.jpg?ai-no-cache=true
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\8cf8c885ca8b965829f229c67a763823.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/a7291df6cbb3205e422286244013dcc6-500x500.jpg
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\a7291df6cbb3205e422286244013dcc6-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/a7291df6cbb3205e422286244013dcc6.jpg?ai-no-cache=true
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\a7291df6cbb3205e422286244013dcc6.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/aca1a33398dfd1abf6b32b34cd2aa08e-80x80.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\aca1a33398dfd1abf6b32b34cd2aa08e-80x80.png
+Content Type: image/png
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/d60de7446ad8964b189d6a54d97fbb56-80x80.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\d60de7446ad8964b189d6a54d97fbb56-80x80.png
+Content Type: image/png
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/dd6c7df18c8653f9362df97ea3fbb3a3-500x500.jpg
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\dd6c7df18c8653f9362df97ea3fbb3a3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/dd6c7df18c8653f9362df97ea3fbb3a3.jpg?ai-no-cache=true
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\dd6c7df18c8653f9362df97ea3fbb3a3.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/eda745834f9cd0314e541a5197e905c9-500x500.jpg
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\eda745834f9cd0314e541a5197e905c9-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2019/11/eda745834f9cd0314e541a5197e905c9.jpg?ai-no-cache=true
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2019\11\eda745834f9cd0314e541a5197e905c9.jpg
+Content Type: image/jpeg
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2023/06/be49ecb20c10a03aa49c4db7e1d26197-220x220.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2023\06\be49ecb20c10a03aa49c4db7e1d26197-220x220.png
+Content Type: image/png
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2023/06/be49ecb20c10a03aa49c4db7e1d26197.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2023\06\be49ecb20c10a03aa49c4db7e1d26197.png
+Content Type: image/png
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-content/uploads/2023/06/da7cb4f9cde97880c3d8a2fef9963014.png
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-content\uploads\2023\06\da7cb4f9cde97880c3d8a2fef9963014.png
+Content Type: image/png
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-includes/js/jquery/jquery.js?ver=4.562
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/qfy-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\qfy-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/xmlrpc.php
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\xmlrpc.php.html
+Content Type: text/html
+
+Uri: http://w-85861-78186-78937.47901444.sites.hk32.qifeiye.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\w-85861-78186-78937.47901444.sites.hk32.qifeiye.com\xmlrpc.php-1.html
+Content Type: text/html
+
